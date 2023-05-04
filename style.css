@@ -6,11 +6,7 @@ body{
     font-family: 'Poppins', sans-serif; !important;
 }
 
-#home,
-#about,
-#products,
-#reviews,
-#contact {
+#home,#about,#products,#reviews,#contact {
     margin-top: 50px;
     margin-bottom: 50px;
 }
