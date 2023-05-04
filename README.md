@@ -1,5 +1,4 @@
 # Hyperskill-Cafe
-<h2>Hyperskill Cafe</h2>
 <p>My project for Hyperskill Cafe. Frontend Core</p>
 <h2>Technologies used:</h2>
 <ul>
