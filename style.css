@@ -1,0 +1,24 @@
+html{
+    font-family: 'Instrument Serif', serif;
+}
+
+body{
+    font-family: 'Poppins', sans-serif; !important;
+}
+
+#home,
+#about,
+#products,
+#reviews,
+#contact {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.hello{
+     margin-left: 5vw;
+     width: 44vw;
+}
+
+p{
+     text-align: justify;
+}
